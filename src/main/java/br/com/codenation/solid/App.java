@@ -1,4 +1,4 @@
-package br.com.codenation.solidd;
+package br.com.codenation.solid;
 
 /**
  * Hello world!
